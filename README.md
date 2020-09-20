@@ -13,3 +13,4 @@ I'm not working on any personal project right now but i am freelancing and i wan
 [![Instagram-yussufulan](https://img.shields.io/badge/Instagram-@yussufulan-informational?style=flat-square)](https://instagram.com/yussufulan)
 [![Codepen-yussufjpg](https://img.shields.io/badge/Codepen-yussufjpg-informational?style=flat-square)](https://codepen.io/yussufjpg)
 [![Email-yussuf.jpeg@gmail.com](https://img.shields.io/badge/Email-yussuf.jpeg@gmail.com-informational?style=flat-square)](mailto:yussuf.jpeg@gmail.com)
+[![Bionluk-yusufbiyik](https://img.shields.io/badge/Bionluk-yusufbiyik-critical?style=flat-square)](https://bionluk.com/yusufbiyik)
