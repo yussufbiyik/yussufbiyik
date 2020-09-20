@@ -10,7 +10,7 @@ I'm not working on any personal project right now but i am freelancing and i wan
 -
 ## 🌱 I am currently learning 
 ## 📫 How to reach me
-- ![Discord-yussuf#8767](https://img.shields.io/badge/Discord-yussuf%238767-informational?style=flat-square)
-- [![Instagram-yussufulan](https://img.shields.io/badge/Instagram-@yussufulan-informational?style=flat-square)](https://instagram.com/yussufulan)
-- [![Codepen-yussufjpg](https://img.shields.io/badge/Codepen-yussufjpg-informational?style=flat-square)](https://codepen.io/yussufjpg)
-- [![Email-yussuf.jpeg@gmail.com](https://img.shields.io/badge/Email-yussuf.jpeg@gmail.com-informational?style=flat-square)](mailto:yussuf.jpeg@gmail.com)
+![Discord-yussuf#8767](https://img.shields.io/badge/Discord-yussuf%238767-informational?style=flat-square)
+[![Instagram-yussufulan](https://img.shields.io/badge/Instagram-@yussufulan-informational?style=flat-square)](https://instagram.com/yussufulan)
+[![Codepen-yussufjpg](https://img.shields.io/badge/Codepen-yussufjpg-informational?style=flat-square)](https://codepen.io/yussufjpg)
+[![Email-yussuf.jpeg@gmail.com](https://img.shields.io/badge/Email-yussuf.jpeg@gmail.com-informational?style=flat-square)](mailto:yussuf.jpeg@gmail.com)
