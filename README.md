@@ -1,6 +1,6 @@
 ### Hi! 👋
 ![Website](https://img.shields.io/badge/Website-yussufjpg.github.io-blue?style=flat-square)
-![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?style=social)
+[![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Follow&style=social)](https://github.com/yussufjpg)
 
 ## 🔭 I am currently working on
 I'm not working on any personal project right now but i am freelancing and i want to help others about their projects.
