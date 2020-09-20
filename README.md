@@ -3,7 +3,7 @@
 [![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
 
 ## 🔭 I am currently working on
-I'm not working on any personal project right now but i am freelancing and i want to help others about their projects.
+I'm not working on any personal projects for now but i am freelancing and i want to help others about their projects.
 ## 🌟 Some of my projects
 [![Simple TODO](https://img.shields.io/badge/Project-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
 [![ESP8266WebServer Creator](https://img.shields.io/badge/Project-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
