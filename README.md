@@ -2,8 +2,10 @@
 ![Website](https://img.shields.io/badge/Website-yussufjpg.github.io-blue?style=flat-square)
 [![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
 
-## 🔭 I am currently working on
+## 🔬 I am currently working on
 I'm not working on any personal projects for now but i am freelancing and i want to help others about their projects.
+## 🌱 I am learning & planning to learn..
+I am currently learning Bootstrap 4 and I am planning to learn Fusion 360 
 ## 🌟 Some of my projects
 [![Simple TODO](https://img.shields.io/badge/Project-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
 [![ESP8266WebServer Creator](https://img.shields.io/badge/Project-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
