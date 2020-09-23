@@ -1,5 +1,6 @@
 # Hi! 👋
-![Website](https://img.shields.io/badge/Website-yussufjpg.github.io-blue?style=flat-square)
+[![Website](https://img.shields.io/badge/Website-yussufjpg.github.io-blue?style=flat-square)](https://yussufjpg.github.io)
+[![Bionluk-yusufbiyik](https://img.shields.io/badge/Bionluk-yusufbiyik-critical?style=flat-square)](https://bionluk.com/yusufbiyik)
 [![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
 
 ## 🔬 I am currently working on
@@ -15,4 +16,3 @@ I am currently learning Bootstrap 4 and I am planning to learn Fusion 360
 [![Instagram-yussufulan](https://img.shields.io/badge/Instagram-@yussufulan-informational?style=flat-square)](https://instagram.com/yussufulan)
 [![Codepen-yussufjpg](https://img.shields.io/badge/Codepen-yussufjpg-informational?style=flat-square)](https://codepen.io/yussufjpg)
 [![Email-yussuf.jpeg@gmail.com](https://img.shields.io/badge/Email-yussuf.jpeg@gmail.com-informational?style=flat-square)](mailto:yussuf.jpeg@gmail.com)
-[![Bionluk-yusufbiyik](https://img.shields.io/badge/Bionluk-yusufbiyik-critical?style=flat-square)](https://bionluk.com/yusufbiyik)
