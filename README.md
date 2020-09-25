@@ -8,9 +8,9 @@ I am not working on any personal projects for now but i am freelancing and i wan
 ## 🌱 I am learning & planning to learn..
 I am currently learning Bootstrap 4 and I am planning to learn Fusion 360 
 ## 🌟 Some of my projects
-[![Simple TODO](https://img.shields.io/badge/Project-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
-[![ESP8266WebServer Creator](https://img.shields.io/badge/Project-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
-[![Steam Inventory Scraper](https://img.shields.io/badge/Project-Steam%20Inventory%20Scraper-brightgreen?style=flat-square)](https://github.com/yussufjpg/steam-inventory-scraper)
+[![Simple TODO](https://img.shields.io/badge/ElectronJS-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
+[![ESP8266WebServer Creator](https://img.shields.io/badge/Python-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
+[![Steam Inventory Scraper](https://img.shields.io/badge/NodeJS-Steam%20Inventory%20Scraper-brightgreen?style=flat-square)](https://github.com/yussufjpg/steam-inventory-scraper)
 ## 📫 How to reach me
 ![Discord-yussuf#8767](https://img.shields.io/badge/Discord-yussuf%238767-informational?style=flat-square)
 [![Instagram-yussufulan](https://img.shields.io/badge/Instagram-@yussufulan-informational?style=flat-square)](https://instagram.com/yussufulan)
