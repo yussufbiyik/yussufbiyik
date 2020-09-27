@@ -6,7 +6,7 @@
 ## 🔬 I am currently working on
 I am not working on any personal projects for now but i am freelancing and i want to help others about their projects.
 ## 🌱 I am learning & planning to learn..
-I am currently learning Bootstrap 4 and I am planning to learn Fusion 360 
+Definetly nothing
 ## 🌟 Some of my projects
 [![Simple TODO](https://img.shields.io/badge/ElectronJS-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
 [![ESP8266WebServer Creator](https://img.shields.io/badge/Python-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
