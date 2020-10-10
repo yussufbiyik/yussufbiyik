@@ -8,7 +8,7 @@ I am not working on any personal projects for now but i am freelancing and i wan
 ## 🌱 I am learning & planning to learn..
 Angular
 ## 🆕 My latest project
-[![Angular TodoApp](https://img.shields.io/badge/Angular-Angular%20TodoApp-brightgreen?style=flat-square)](https://github.com/yussufjpg/Angular-TodoApp)
+[![Angular TodoApp](https://img.shields.io/badge/Angular-TodoApp-brightgreen?style=flat-square)](https://github.com/yussufjpg/Angular-TodoApp)
 ## 🌟 Some of my projects
 [![Simple TODO](https://img.shields.io/badge/ElectronJS-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
 [![ESP8266WebServer Creator](https://img.shields.io/badge/Python-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
