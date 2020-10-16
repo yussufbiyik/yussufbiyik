@@ -4,7 +4,7 @@
 [![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
 
 ## 🔬 I am currently working on
-I am not working on any personal projects for now but i am freelancing and i want to help others about their projects.
+I am working on learning Angular and at the same time I am freelancing & I try to help others about their projects.
 ## 🌱 I am learning & planning to learn..
 Angular
 ## 🆕 My latest project
