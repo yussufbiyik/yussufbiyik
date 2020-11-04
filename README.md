@@ -6,7 +6,7 @@
 ## 🔬 I am currently working on
 I am working on learning Angular and at the same time I am freelancing & I try to help others about their projects.
 ## 🌱 I am learning & planning to learn..
-Angular
+Nothing for now (working on exams)
 ## 🆕 My latest project
 [![Angular TodoApp](https://img.shields.io/badge/Angular-TodoApp-brightgreen?style=flat-square)](https://github.com/yussufjpg/Angular-TodoApp)
 ## 🌟 Some of my projects
