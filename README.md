@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/Website-yussufjpg.github.io-blue?style=flat-square)](https://yussufjpg.github.io)
 [![Bionluk-yusufbiyik](https://img.shields.io/badge/Bionluk-yusufbiyik-critical?style=flat-square)](https://bionluk.com/yusufbiyik)
 [![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
-[![My DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/yussuf)
+[![My DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =10x)](https://dev.to/yussuf)
 
 ## 🔬 I am currently working on
 Exams delayed so I'm working on getting Python Certificate and at the same time I am freelancing & I try to help others about their projects.
