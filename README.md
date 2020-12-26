@@ -4,7 +4,7 @@
 [![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
 
 ## 🔬 I am currently working on
-Exams 
+Anything but Exams 
 ## 🌱 I am learning & planning to learn..
 Planning to learn Angular
 ## 🆕 My latest project
