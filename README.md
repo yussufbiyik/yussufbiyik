@@ -1,18 +1,18 @@
 # Hi! 👋
-[![Website](https://img.shields.io/badge/Website-yussufjpg.github.io-blue?style=flat-square)](https://yussufjpg.github.io)
+[![Website](https://img.shields.io/badge/Website-yussufbiyik.github.io-blue?style=flat-square)](https://yussufbiyik.github.io)
 [![Bionluk-yusufbiyik](https://img.shields.io/badge/Bionluk-yusufbiyik-critical?style=flat-square)](https://bionluk.com/yusufbiyik)
-[![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufjpg)
+[![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufbiyik)
 
 ## 🔬 I am currently working on
 Anything but Exams 
 ## 🌱 I am learning & planning to learn..
 Planning to learn Angular
 ## 🆕 My latest project
-[![Angular TodoApp](https://img.shields.io/badge/Angular-TodoApp-brightgreen?style=flat-square)](https://github.com/yussufjpg/Angular-TodoApp)
+[![Angular TodoApp](https://img.shields.io/badge/Angular-TodoApp-brightgreen?style=flat-square)](https://github.com/yussufbiyik/Angular-TodoApp)
 ## 🌟 Some of my projects
-[![Simple TODO](https://img.shields.io/badge/ElectronJS-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufjpg/simpletodo)
-[![ESP8266WebServer Creator](https://img.shields.io/badge/Python-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufjpg/ESP8266WebServer-Creator)
-[![Steam Inventory Scraper](https://img.shields.io/badge/NodeJS-Steam%20Inventory%20Scraper-brightgreen?style=flat-square)](https://github.com/yussufjpg/steam-inventory-scraper)
+[![Simple TODO](https://img.shields.io/badge/ElectronJS-Simple%20TODO-brightgreen?style=flat-square)](https://github.com/yussufbiyik/simpletodo)
+[![ESP8266WebServer Creator](https://img.shields.io/badge/Python-ESP8266WebServer%20Creator-brightgreen?style=flat-square)](https://github.com/yussufbiyik/ESP8266WebServer-Creator)
+[![Steam Inventory Scraper](https://img.shields.io/badge/NodeJS-Steam%20Inventory%20Scraper-brightgreen?style=flat-square)](https://github.com/yussufbiyik/steam-inventory-scraper)
 ## 📫 How to reach me
 ![Discord-yussuf#8767](https://img.shields.io/badge/Discord-yussuf%238767-informational?style=flat-square)
 [![Instagram-yussufulan](https://img.shields.io/badge/Instagram-@yussufulan-informational?style=flat-square)](https://instagram.com/yussufulan)
