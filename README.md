@@ -1,7 +1,7 @@
 # Hi! 👋
 [![Website](https://img.shields.io/badge/Website-yussufbiyik.github.io-blue?style=flat-square)](https://yussufbiyik.github.io)
 [![Bionluk-yusufbiyik](https://img.shields.io/badge/Bionluk-yusufbiyik-critical?style=flat-square)](https://bionluk.com/yusufbiyik)
-[![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufjpg?label=Followers&style=social)](https://github.com/yussufbiyik)
+[![Follow me.. Maybe?](https://img.shields.io/github/followers/yussufbiyik?label=Followers&style=social)](https://github.com/yussufbiyik)
 
 ## 🔬 I am currently working on
 Anything but Exams 
