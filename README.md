@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an Electric-Electronics Student from Tokat Gaziosmanpaşa University.</p>
+<p align="left">I am an Electric-Electronics Engineering Student from Tokat Gaziosmanpaşa University.</p>
 
 <div align="left">
   <a href="https://www.instagram.com/yussufbiyik/" target="_blank">
