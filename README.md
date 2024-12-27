@@ -1,36 +1,12 @@
-<h2 align="left">Hi!</h2>
+<h1 align="left">Hey</h1>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-</div>
+<p align="left">I am an Electric-Electronics Student from Tokat Gaziosmanpaşa University.</p>
+
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
@@ -47,6 +23,64 @@
   <a href="https://codepen.io/yusufbiyik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="codepen logo"  />
   </a>
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<h2 align="left">Tech I use</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+</div>
+
+###
+
+<h2 align="left">Other programs etc. I use</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
