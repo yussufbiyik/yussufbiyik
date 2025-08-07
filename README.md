@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="codepen logo"  />
   </a>
 </div>
+
 ###
 
 <h2 align="left">I am currently working on</h2>
@@ -31,6 +32,7 @@
       Development of tomato disease development risk warning system (EU Project - HealthyTomato)
     </li>
   </ul>
+  
 ###
 
 <h2 align="left">I code with</h2>
