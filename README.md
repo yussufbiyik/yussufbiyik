@@ -26,7 +26,7 @@
 ###
   <ul>
     <li>
-      Almost fully distributed swarm drone system on MAVSDK for a nation wide competition (Teknofest - ULGEN Team)
+      Almost fully distributed swarm drone system on MAVSDK along with a fully custom made GCS made with Svelte for a nation wide competition (Teknofest - ULGEN Team)
     </li>
     <li>
       Development of tomato disease development risk warning system (EU Project - HealthyTomato)
