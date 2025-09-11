@@ -1,7 +1,3 @@
-<h1 align="left">Hey</h1>
-
-###
-
 <p align="left">I am an Electric-Electronics Engineering Student from Tokat Gaziosmanpaşa University.</p>
 
 <div align="left">
