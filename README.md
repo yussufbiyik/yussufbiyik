@@ -26,11 +26,13 @@
 ###
   <ul>
     <li>
-      Almost fully distributed swarm drone system on MAVSDK along with a fully custom made GCS made with Svelte for a nation wide competition (Teknofest - ULGEN Team - Won 6th Place Nationwide in 2025, aiming 1st place for 2026)
+      Fully distributed swarm drone framework on MAVSDK along with a fully custom made GCS made with Svelte
     </li>
+    <span>[ ULGEN Swarm UAV Team - Won 6th Place Nationwide in 2025 Teknofest ] - [ Aiming 1st place for 2026 ]</span>
     <li>
-      Development of tomato disease development risk warning system (EU Project - HealthyTomato)
+      Development of tomato disease development risk warning system
     </li>
+    <span>[ EU Project - HealthyTomato ]</span>
   </ul>
   
 ###
