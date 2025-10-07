@@ -22,7 +22,7 @@
 ###
   <ul>
     <li>
-      Fully distributed swarm drone framework on MAVSDK along with a fully custom GCS made with Svelte
+      Fully distributed swarm drone framework on MAVSDK along with a fully custom GCS made with Svelte 5
     </li>
     <span>[ ULGEN Swarm UAV Team - Won 6th Place Nationwide in 2025 Teknofest ] - [ Aiming 1st place for 2026 ]</span>
     <li>
