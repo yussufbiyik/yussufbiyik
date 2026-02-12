@@ -28,7 +28,7 @@
     <li>
       Development of tomato disease development risk warning system
     </li>
-    <span>[ EU Project - HealthyTomato ]</span>
+    <span>[ TUBITAK & EU Project - HealthyTomato ]</span>
   </ul>
   
 ###
