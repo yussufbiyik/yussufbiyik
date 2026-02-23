@@ -1,5 +1,5 @@
 <p align="left">I am an Electric-Electronics Engineering Student from Tokat Gaziosmanpaşa University.</p>
-<a href="https://music.apple.com/tr/album/like-that/1737149923?i=1737150439&l=tr&ls">it's just big me (2:36)</a>
+<a href="https://music.apple.com/tr/album/like-that/1737149923?i=1737150439&l=tr&ls">1>3 (2:36)</a>
 <br>
 <div align="left">
   <a href="https://www.instagram.com/yussufbiyik/" target="_blank">
