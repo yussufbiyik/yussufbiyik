@@ -1,4 +1,4 @@
-Working on Distributed Swarms | TEKNOFEST'25 6th Place | EE Student @ Tokat Gaziosmanpaşa University.
+Working on Distributed Swarms and Gen AI | TEKNOFEST'25 6th Place | EE Student @ Tokat Gaziosmanpaşa University.
 
 [1>3 (2:36)](https://music.apple.com/tr/album/like-that/1737149923?i=1737150439&l=tr&ls)
 
