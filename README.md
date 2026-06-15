@@ -9,10 +9,8 @@ Working on Distributed Swarms | TEKNOFEST'25 6th Place | EE Student @ Tokat Gazi
 
 ## I am currently working on
 
-- Fully distributed drone swarm framework on PX4 & MAVSDK along with a fully custom GCS made with Svelte 5  
-  *[[ ULGEN Swarm UAV Team - Won 6th Place Nationwide in 2025 Teknofest ]](https://tyk.gop.edu.tr/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42531) - [ Aiming 1st place for 2026 ]*
-- Development of tomato disease development risk warning system  
-  *[[ TUBITAK & EU Project - HealthyTomato ]](https://www.ictagrifood.eu/node/45915)*
+- [[ ULGEN Swarm UAV Team - Won 6th Place Nationwide in 2025 Teknofest ]](https://tyk.gop.edu.tr/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42531) - *Fully distributed drone swarm framework on PX4 & MAVSDK along with a fully custom GCS made with Svelte 5  - **[ Aiming 1st place for 2026 ]***
+- [[ TUBITAK & EU Project - HealthyTomato ]](https://www.ictagrifood.eu/node/45915) - *Development of tomato disease development risk warning system*
 
 ## I code with
 
