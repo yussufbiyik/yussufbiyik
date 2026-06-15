@@ -1,95 +1,42 @@
-<p align="left">I am an Electric-Electronics Engineering Student from Tokat Gaziosmanpaşa University.</p>
-<a href="https://music.apple.com/tr/album/like-that/1737149923?i=1737150439&l=tr&ls">1>3 (2:36)</a>
-<br>
-<div align="left">
-  <a href="https://www.instagram.com/yussufbiyik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yusuf-biyik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@yusufbiyik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="medium logo"  />
-  </a>
-  <a href="https://codepen.io/yusufbiyik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="codepen logo"  />
-  </a>
-</div>
+Working on Distributed Swarms | TEKNOFEST'25 6th Place | EE Student @ Tokat Gaziosmanpaşa University.
 
-###
+[1>3 (2:36)](https://music.apple.com/tr/album/like-that/1737149923?i=1737150439&l=tr&ls)
 
-<h2 align="left">I am currently working on</h2>
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/yussufbiyik/)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/yusuf-biyik/)
+[![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@yusufbiyik)
+[![Codepen](https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://codepen.io/yusufbiyik)
 
-###
-  <ul>
-    <li>
-      Fully distributed drone swarm framework on PX4 & MAVSDK along with a fully custom GCS made with Svelte 5
-    </li>
-    <span>[ ULGEN Swarm UAV Team - Won 6th Place Nationwide in 2025 Teknofest ] - [ Aiming 1st place for 2026 ]</span>
-    <li>
-      Development of tomato disease development risk warning system
-    </li>
-    <span>[ TUBITAK & EU Project - HealthyTomato ]</span>
-  </ul>
-  
-###
+## I am currently working on
 
-<h2 align="left">I code with</h2>
+- Fully distributed drone swarm framework on PX4 & MAVSDK along with a fully custom GCS made with Svelte 5  
+  *[[ ULGEN Swarm UAV Team - Won 6th Place Nationwide in 2025 Teknofest ]](https://tyk.gop.edu.tr/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42531) - [ Aiming 1st place for 2026 ]*
+- Development of tomato disease development risk warning system  
+  *[[ TUBITAK & EU Project - HealthyTomato ]](https://www.ictagrifood.eu/node/45915)*
 
-###
+## I code with
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-</div>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![C#](https://skillicons.dev/icons?i=cs)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=py)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
-###
+## Tech I use
 
-<h2 align="left">Tech I use</h2>
+![Express](https://skillicons.dev/icons?i=express)
+![Svelte](https://skillicons.dev/icons?i=svelte)
+![Docker](https://skillicons.dev/icons?i=docker)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Angular](https://skillicons.dev/icons?i=angular)
+![React](https://skillicons.dev/icons?i=react)
+![Electron](https://skillicons.dev/icons?i=electron)
+![Selenium](https://skillicons.dev/icons?i=selenium)
 
-###
+## Other programs etc. I use
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-</div>
-
-###
-
-<h2 align="left">Other programs etc. I use</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
-
-###
+![AutoCAD](https://skillicons.dev/icons?i=autocad)
+![Photoshop](https://skillicons.dev/icons?i=ps)
