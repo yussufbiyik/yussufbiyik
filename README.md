@@ -1,4 +1,4 @@
-Working on Distributed Swarms and AI | TEKNOFEST'25 6th Place | EE Student (Electrical & Electronics) @ Tokat Gaziosmanpaşa University.
+Working on Distributed Swarms and AI | TEKNOFEST'25 6th Place | EE Student (Electrical & Electronics Engineering) @ Tokat Gaziosmanpaşa University.
 
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/yussufbiyik/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/yusuf-biyik/)
