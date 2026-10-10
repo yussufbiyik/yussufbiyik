@@ -14,7 +14,7 @@ Working on Distributed Swarms and AI | TEKNOFEST'25 6th Place | EE Student (Elec
 - **[ULGEN Swarm UAV Team - 6th Place in TEKNOFEST'25 & 10th Place in TEKNOFEST'26 in Türkiye](https://tyk.gop.edu.tr/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42531)** - *Fully distributed drone swarm framework on PX4 & MAVSDK along with a fully custom GCS made with Svelte 5*
 - **[langchain-chromadb-rag-example](https://github.com/yussufbiyik/langchain-chromadb-rag-example)** - A clean, small example of retrieval augmented generation with ChromaDB and multiple LLM providers, written to be easy to read because nobody else seems to write it that way. 53 stars and counting, which still surprises me.
 - **[facedancer-webui](https://github.com/yussufbiyik/facedancer-webui)** - A drag and drop interface for FaceDancer. Just drop your images or videos and it handles the rest. Made simple on purpose, inspired by how easy A1111 made things for Stable Diffusion.
-- **[lego-store-stock-checker](https://github.com/yussufbiyik/lego-store-stock-checker)** - An unofficial Lego T�rkiye stock checker with its own API and CLI. It emails you before the scalpers do.
+- **[lego-store-stock-checker](https://github.com/yussufbiyik/lego-store-stock-checker)** - An unofficial Lego Türkiye stock checker with its own API and CLI. It emails you before the scalpers do.
 
 ## Things I reach for
 
